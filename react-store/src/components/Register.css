@@ -1,0 +1,10 @@
+.App-Register-Row{
+    display:flex;
+    justify-content: center;
+}
+
+.App-Register-Row div{
+    margin:10px;
+    padding: 10px;
+    border: 1px solid gray;
+}

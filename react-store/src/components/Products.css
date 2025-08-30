@@ -1,0 +1,18 @@
+.App-Products-Row{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.App-Products-Box{
+    padding: 5px;
+    margin: 15px;
+    border: 1px solid gray;
+    border-radius: 2px;
+    font-size: 20px;
+}
+
+.App-Products-Box button{
+    padding: 10px;
+    font-size: 20px;
+    margin: 10px;
+}

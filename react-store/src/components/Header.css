@@ -1,0 +1,7 @@
+.App-Header-Row{
+    display: flex;
+    justify-content: space-between;
+    background-color: lightblue;
+    padding: 5px;
+    font-size: 20px;
+}
