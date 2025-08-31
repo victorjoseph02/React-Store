@@ -46,7 +46,7 @@ To make the most of our Full-Stack E-Commerce Platform, follow these simple step
 
 With our user-friendly interface and robust backend, this platform provides a complete and modern online shopping experience.
 
-##🧐 How it works with the tech stack
+## 🧐 How it works with the tech stack
 Our Full-Stack E-Commerce Platform combines various technologies to provide a seamless and secure shopping experience. Here's how it works:
 
 **Frontend Development**: We use React to build an intuitive and dynamic single-page application (SPA). React's component-based architecture allows us to create reusable UI elements and efficiently manage the application's state, such as the contents of the shopping cart and the user's login status.
