@@ -57,7 +57,7 @@ Our Full-Stack E-Commerce Platform combines various technologies to provide a se
 
 **Full-Stack Integration:** The React frontend communicates with the Node.js backend using HTTP requests. When a user adds an item to their cart or places an order, the frontend sends a request to the appropriate API endpoint. The backend then processes this request, interacts with the MongoDB database, and sends a response back to the frontend to update the UI. Postman was used extensively to test and debug all API endpoints.
 
-##📖 Lessons Learned
+## 📖 Lessons Learned
 From this project, I have learned several valuable lessons:
 
 **Full-Stack MERN Development:** I gained comprehensive, hands-on experience building a full-stack application from scratch using the MERN stack. This involved connecting a React frontend, a Node.js/Express.js backend, and a MongoDB database to work in unison.
