@@ -4,7 +4,7 @@ import { useContext, useState, useEffect } from "react";
 import { appContext } from "../App";
 export default function Header() {
   const { user, setUser, cart, products, orders } = useContext(appContext);
-  const items = products.filter((value) => cart[value.id] > 0);
+  const items = products.filter((value) => cart[value._id] > 0);
   const [myOrder, setMyOrder] = useState([]);
   useEffect(() => {
     setMyOrder(orders.filter((value) => value.email === user.email));
